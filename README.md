@@ -7,3 +7,7 @@
 - [백준 4358: 생태학](https://www.acmicpc.net/problem/4358) (6/28)
 
 - [백준 11724: 연결요소의 개수](https://www.acmicpc.net/problem/11724) (6/28)
+
+- [백준 1463: 1로 만들기](https://www.acmicpc.net/problem/1463) (6/30)
+
+- [백준 9095: 1, 2, 3 더하기](https://www.acmicpc.net/problem/9095) (6/30)
