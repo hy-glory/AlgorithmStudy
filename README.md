@@ -6,6 +6,8 @@
 
 - [백준 18870: 좌표 압축](https://www.acmicpc.net/problem/18870) (07/04)
 
+- [백준 2108: 좌표 압축](https://www.acmicpc.net/problem/18870) (07/06)
+
 ## 6월
 
 - [백준 1764: 듣보잡](https://www.acmicpc.net/problem/1764) (6/23)
