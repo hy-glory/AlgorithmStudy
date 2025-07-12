@@ -6,7 +6,9 @@
 
 - [백준 18870: 좌표 압축](https://www.acmicpc.net/problem/18870) (07/04)
 
-- [백준 2108: 좌표 압축](https://www.acmicpc.net/problem/18870) (07/06)
+- [백준 2108: 통계학](https://www.acmicpc.net/problem/2180) (07/06)
+
+- [백준 16953: A -> B](https://www.acmicpc.net/problem/16953) (07/12)
 
 ## 6월
 
