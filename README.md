@@ -10,6 +10,8 @@
 
 - [백준 16953: A -> B](https://www.acmicpc.net/problem/16953) (07/12)
 
+- [백준 1927: 최소힙](https://www.acmicpc.net/problem/1927) (07/15)
+
 ## 6월
 
 - [백준 1764: 듣보잡](https://www.acmicpc.net/problem/1764) (6/23)
