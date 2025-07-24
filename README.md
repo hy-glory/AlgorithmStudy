@@ -16,6 +16,8 @@
 
 - [백준 17626: Four Squares](https://www.acmicpc.net/problem/17626) (07/22)
 
+- [백준 18111: 마인크래프트](https://www.acmicpc.net/problem/18111) (07/24)
+
 ## 6월
 
 - [백준 1764: 듣보잡](https://www.acmicpc.net/problem/1764) (6/23)
