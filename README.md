@@ -22,6 +22,8 @@
 
 - [백준 9465: 스티커](https://www.acmicpc.net/problem/9465) (07/26)
 
+- [백준 5525: IOIOI](https://www.acmicpc.net/problem/5525) (07/28)
+
 ## 6월
 
 - [백준 1764: 듣보잡](https://www.acmicpc.net/problem/1764) (6/23)
