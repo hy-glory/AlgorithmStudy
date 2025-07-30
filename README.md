@@ -24,6 +24,8 @@
 
 - [백준 5525: IOIOI](https://www.acmicpc.net/problem/5525) (07/28)
 
+- [백준 11279: 최대힙](https://www.acmicpc.net/problem/11279) (07/30)
+
 ## 6월
 
 - [백준 1764: 듣보잡](https://www.acmicpc.net/problem/1764) (6/23)
