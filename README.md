@@ -1,5 +1,9 @@
 # 🖥️ 코딩테스트 스터디
 
+## 8월
+
+- [백준 1931: 회의실 배정](https://www.acmicpc.net/problem/1931) (08/01)
+
 ## 7월
 
 - [백준 11057: 오르막 수](https://www.acmicpc.net/problem/11057) (07/03)
