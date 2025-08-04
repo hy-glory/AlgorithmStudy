@@ -6,6 +6,8 @@
 
 - [백준 2805: 나무 자르기](https://www.acmicpc.net/problem/2805) (08/03)
 
+- [백준 15652: N과 M(4)](https://www.acmicpc.net/problem/15652) (08/04)
+
 ## 7월
 
 - [백준 11057: 오르막 수](https://www.acmicpc.net/problem/11057) (07/03)
