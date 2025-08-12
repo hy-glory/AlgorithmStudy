@@ -8,6 +8,8 @@
 
 - [백준 15652: N과 M(4)](https://www.acmicpc.net/problem/15652) (08/04)
 
+- [백준 14888: 연산자 끼워넣기](https://www.acmicpc.net/problem/14888) (08/11)
+
 ## 7월
 
 - [백준 11057: 오르막 수](https://www.acmicpc.net/problem/11057) (07/03)
