@@ -14,6 +14,8 @@
 
 - [백준 1260: DFS와 BFS](https://www.acmicpc.net/problem/1260) (08/14)
 
+- [백준 11659](https://www.acmicpc.net/problem/11659) (08/15)
+
 ## 7월
 
 - [백준 11057: 오르막 수](https://www.acmicpc.net/problem/11057) (07/03)
