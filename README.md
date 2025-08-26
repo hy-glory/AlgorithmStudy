@@ -28,6 +28,8 @@
 
 - [백준 11399](https://www.acmicpc.net/problem/11399) (08/26)
 
+- [백준 1003](https://www.acmicpc.net/problem/1003) (08/26)
+
 ## 7월
 
 - [백준 11057: 오르막 수](https://www.acmicpc.net/problem/11057) (07/03)
