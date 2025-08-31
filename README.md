@@ -30,6 +30,8 @@
 
 - [백준 1003](https://www.acmicpc.net/problem/1003) (08/26)
 
+- [백준 11723](https://www.acmicpc.net/problem/11723) (08/26)
+
 - [백준 2606](https://www.acmicpc.net/problem/2606) (08/31)
 
 ## 7월
