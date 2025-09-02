@@ -1,5 +1,9 @@
 # 🖥️ 코딩테스트 스터디
 
+## 9월
+
+- [백준 11047](https://www.acmicpc.net/problem/11047) (09/02)
+
 ## 8월
 
 - [백준 1931: 회의실 배정](https://www.acmicpc.net/problem/1931) (08/01)
