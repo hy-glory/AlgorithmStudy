@@ -20,6 +20,7 @@
 
 - [백준 13900](https://www.acmicpc.net/problem/13900) (09/09)
 
+- [백준 11441](https://www.acmicpc.net/problem/11441) (09/09)
 
 ## 8월
 
