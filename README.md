@@ -16,7 +16,10 @@
 
 - [백준 1620](https://www.acmicpc.net/problem/1620) (09/03)
 
-- [백준 11660](https://www.acmicpc.net/problem/11660) (09/09)
+- [백준 11660](https://www.acmicpc.net/problem/11660) (09/08)
+
+- [백준 13900](https://www.acmicpc.net/problem/13900) (09/09)
+
 
 ## 8월
 
