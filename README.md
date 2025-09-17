@@ -34,6 +34,8 @@
 
 - [백준 2018](https://www.acmicpc.net/problem/2018) (09/15)
 
+- [백준 11728](https://www.acmicpc.net/problem/11728) (09/17)
+
 ## 8월
 
 - [백준 1931: 회의실 배정](https://www.acmicpc.net/problem/1931) (08/01)
