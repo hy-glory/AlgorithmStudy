@@ -4,7 +4,6 @@
 
 using namespace std;
 int N, X;
-int arr[100001];
 int n;
 vector<int> v;
 
@@ -20,19 +19,19 @@ int main() {
 	cin >> X;
 	
 	sort(v.begin(), v.end());
-	int start = 0, end = N-1;
+	int left = 0, right = N-1;
 	int count = 0;
 	
-	while (start <= end) {
-		if (v[start]+v[end] < X) {
-			start++;
+	while (left < right) {
+		if (v[left]+v[right] < X) {
+			left++;
 		}
-		else if (v[start]+v[end] > X) {
-			end--;
+		else if (v[left]+v[right] > X) {
+			right--;
 		}
 		else {
 			count++;
-			start++;
+			left++;
 		}
 	}
 	
