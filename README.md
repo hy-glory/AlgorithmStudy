@@ -40,6 +40,8 @@
 
 - [백준 2003](https://www.acmicpc.net/problem/2003) (09/21)
 
+- [백준 3273](https://www.acmicpc.net/problem/3273) (09/22)
+
 ## 8월
 
 - [백준 1931: 회의실 배정](https://www.acmicpc.net/problem/1931) (08/01)
