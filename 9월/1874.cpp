@@ -6,7 +6,7 @@ using namespace std;
 int N;
 int arr[100001];
 stack<int> s;
-vector<char> result; // °á°ú Ãâ·Â 
+vector<char> result; // ê²°ê³¼ ì €ì¥
 
 int main() {
 	ios_base::sync_with_stdio(false);
@@ -17,7 +17,7 @@ int main() {
 		cin >> arr[i];
 	}
 	
-	int idx = 0, num = 1; // arrÀÇ ÀÎµ¦½º, stack ÀÔ·Â num  
+	int idx = 0, num = 1; // arrì˜ ì¸ë±ìŠ¤, ìŠ¤íƒì— ë„£ì„ ìˆ«ì
 	while (idx < N) {
 		int n = arr[idx];
 		
@@ -28,7 +28,7 @@ int main() {
 				idx++;
 				continue;
 			}
-			else if (s.top() > n) {
+			else if (s.top() > n) { // ë¶ˆê°€í•œ ê²½ìš°
 				cout << "NO";
 				return 0;
 			}
