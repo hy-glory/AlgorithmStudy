@@ -60,6 +60,8 @@
 
 - [백준 15961](https://www.acmicpc.net/problem/15961) (09/26)
 
+- [백준 14465](https://www.acmicpc.net/problem/14465) (09/26)
+
 ## 8월
 
 - [백준 1931: 회의실 배정](https://www.acmicpc.net/problem/1931) (08/01)
