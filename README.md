@@ -1,5 +1,10 @@
 # 🖥️ 코딩테스트 스터디
 
+## 10월
+
+- [백준 1929](https://www.acmicpc.net/problem/1929) (10/25)
+- [백준 24479](https://www.acmicpc.net/problem/24479) (10/25)
+
 ## 9월
 
 - [백준 11047](https://www.acmicpc.net/problem/11047) (09/02)
