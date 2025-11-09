@@ -7,6 +7,7 @@
 - [백준 11724](https://www.acmicpc.net/problem/11724) (10/25)
 - [백준 11689](https://www.acmicpc.net/problem/11689) (10/25)
 - [백준 1747](https://www.acmicpc.net/problem/1747) (10/26)
+- [백준 1068](https://www.acmicpc.net/problem/1068) (10/29)
 - [백준 18429](https://www.acmicpc.net/problem/18429) (11/06)
 
 ## 9월
